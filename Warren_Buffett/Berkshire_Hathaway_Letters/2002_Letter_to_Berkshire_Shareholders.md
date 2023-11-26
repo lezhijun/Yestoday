@@ -67,7 +67,7 @@ The S&P 500 numbers are **pre-tax** whereas the Berkshire numbers are **after-ta
 
 Our gain in net worth during 2002 was S6.1 billion, which increased the per-share book value of both our Class A and Class B stock by 10.0%. Over the last 38 years (that is, since present management took over) per-share book value has grown from $19 to $41,727,a rate of 22.2% compounded annually.[^*]
 
-公司2002年的账面价值增加61亿美元，A/B股每股账面价值增加10.0%（标普下跌22.1%）[^1]，自现任管理层接手的38年以来，每股账面价值由当初的19美元增长到现在的41727美元，年复合增长率为22.2%。
+公司2002年的净值增加61亿美元，A/B股每股账面价值增加10.0%（标普下跌22.1%）[^1]，自现任管理层接手的38年以来，每股账面价值由当初的19美元增长到现在的41727美元，年复合增长率为22.2%。
 
 [^*]: All figures used in this report apply to Berkshire's A shares, the successor to the only stock that the company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.  
 
