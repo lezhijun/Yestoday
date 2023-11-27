@@ -105,7 +105,7 @@ We've yet to see a pro-forma presentation disclosing that audited earnings were 
 
 That is true because two favorable factors aided our reported figures. First, in 2002 there was no mega-catastrophe, which means that Berkshire (and other insurers as well) earned more from insurance than if losses had been normal. In years when the reverse is true -- because of a blockbuster hurricane, earthquake or man-made disaster -- many insurers like to report that they would have earned X “except for" the unusual event. The implication is that since such megacats are infrequent, they shouldn't be counted when "true” earnings are calculated. That is deceptive nonsense. “Except for" losses will forever be part of the insurance business, and they will forever be paid with shareholders' money.
 
-这是因为去年有两项有利因素确实让我们的财报数字更加好看。第一，由于2002年没有发生什么重大的灾难，所以伯克希尔（以及其它保险业同行）赚取的承保利润比一般正常的年度更多。而在情况相反的年份里，比如遇到飓风、地震或其它人为灾害的时候，许多保险同业往往会声明「要是」没有发生意外事件的话，本来可以赚到多少多少。意思是说，由于这类大灾难很不寻常，所以在计算"真实"的收益时就不应考虑在内。这根本就是骗人的一派胡言。要知道「意外」损失本来就是保险业应担之风险，而且绝对必须要由公司背后的股东来买单。
+这是因为去年有两项有利因素确实让我们的财报数字更加好看。第一，由于2002年没有发生什么重大的灾难，所以伯克希尔（以及其它保险业同行）赚取的承保利润比一般正常的年度更多。而在情况相反的年份里，比如遇到飓风、地震或其它人为灾害的时候，许多保险同业往往会声明要是“排除”发生的意外事件影响，本来可以赚到多少多少。意思是说，由于这类大灾难很不寻常，所以在计算"真实"的收益时就不应考虑在内。这根本就是骗人的一派胡言。要知道「意外」损失本来就是保险业应担之风险，而且绝对必须要由公司背后的股东来买单。
 
 Nonetheless, for the purposes of this exercise, we'll take a page from the industry's book. For last year, when we didn't have any truly major disasters, a downward adjustment is appropriate if you wish to “normalize" our underwriting result.
 
@@ -117,7 +117,7 @@ Secondly, the bond market in 2002 favored certain strategies we employed in our 
 
 Soooo ... "except for" a couple of favorable breaks, our pre-tax earnings last year would have been about $500 million less than we actually reported. We're happy, nevertheless, to bank the excess. As Jack Benny once said upon receiving an award: "I don't deserve this honor -- but, then, I have arthritis, and I don't deserve that either."
 
-所以呢……在"扣除"这几项有利的短期因素后，我们去年的税前获利应比实际报告值减少约5亿美元。当然，我们也很开心多赚这些钱。正如喜剧演员杰克·本尼在一次获奖后所说的："我实在是不配得到这个奖项——但正如我的关节炎，虽然不是应得的，但还是得了。"
+所以呢……在"排除"这几项有利的短期因素后，我们去年的税前获利应比实际报告值减少约5亿美元。当然，我们也很开心多赚这些钱。正如喜剧演员杰克·本尼在一次获奖后所说的："我实在是不配得到这个奖项——但正如我的关节炎，虽然不是应得的，但还是得了。"
 
 ---
 
@@ -131,15 +131,15 @@ Berkshire's operating CEOs are masters of their crafts and run their businesses 
 
 My managerial model is Eddie Bennett, who was a batboy. In 1919, at age 19, Eddie began his work with the Chicago White Sox, who that year went to the World Series. The next year, Eddie switched to the Brooklyn Dodgers, and they, too, won their league title. Our hero, however, smelled trouble. Changing boroughs, he joined the Yankees in 1921, and they promptly won their first pennant in history. Now Eddie settled in, shrewdly seeing what was coming. In the next seven years, the Yankees won five American League titles.
 
-我遵循的管理模式源自一位叫做Eddie Bennett的球童。1919年，年仅19岁的Eddie开始在芝加哥白袜队干活，当年度白袜队立刻就打进世界大赛。第二年Eddie跳槽到布鲁克林道奇队，果不其然，道奇队又赢得世界大赛。之后不久，这位传奇人物发现苗头不对，于是转换门庭于1921年到了纽约洋基队，结果扬基队当年就赢得了队史上第一座世界大赛冠军。自此，Eddie仿佛预知接下来会发生什么，决定安顿下来。结果扬基队在往后的七年间，五度赢得美国职业棒球大联盟总冠军。
+我遵循的管理模式源自一位叫做埃迪·班尼特（Eddie Bennett）的球童。1919年，年仅19岁的埃迪开始在芝加哥白袜队干活，当年度白袜队立刻就打进世界大赛。第二年埃迪跳槽到布鲁克林道奇队，果不其然，道奇队又赢得世界大赛。之后不久，这位传奇人物发现苗头不对，于是1921年转换门庭到了纽约洋基队，结果洋基队当年就赢得了队史上第一座世界大赛冠军。自此，埃迪仿佛预知接下来会发生什么，决定安顿下来。结果洋基队在往后的七年间，五度赢得美国职业棒球大联盟总冠军。
 
 What does this have to do with management? It's simple -- to be a winner, work with winners. In 1927, for example, Eddie received $700 for the 1/8th World Series share voted him by the legendary Yankee team of Ruth and Gehrig. This sum, which Eddie earned by working only four days (because New York swept the Series) was roughly equal to the full-year pay then earned by batboys who worked with ordinary associates.
 
-或许有人会问，这跟管理模式有什么相干？很简单——想要成为赢家，就应与赢家共事。举例来说，1927年，Eddie因为当年棒球界传奇人物George Herman "Babe" Ruth和Henry Louis Gehrig领衔的扬基队仅用八分之一赛季就赢得世界大赛而分到700美元的奖金。这笔钱大约相当于其它球童一整年的收入，结果Eddie总共只工作4天就拿到手（因为当年度扬基队四连胜横扫对手）。
+或许有人会问，这跟管理模式有什么相干？很简单——想要成为赢家，就应与赢家共事。举例来说，1927年，埃迪获得了700美元，是世界大赛奖金的1/8份额，由洋基队的传奇队员鲁斯（Ruth）和格里格（Gehrig）投票给他。这笔钱大约相当于其它球童一整年的收入，结果Eddie总共只工作4天就拿到手（因为当年度洋基队四连胜横扫对手）。
 
 Eddie understood that how he lugged bats was unimportant; what counted instead was hooking up with the cream of those on the playing field. I've learned from Eddie. At Berkshire, I regularly hand bats to many of the heaviest hitters in American business.
 
-Eddie很清楚地知道：他如何拎球棒并不重要，重要的是他是在为球场上最当红的明星拎球棒才最关键。我从Eddie身上学到很多，所以在伯克希尔，我总是将各项业务的经营之棒交给美国商业大联盟的超级击球手们。
+埃迪很清楚地知道：他如何拎球棒并不重要，重要的是他是在为球场上最当红的明星拎球棒才最关键。我从埃迪身上学到很多，所以在伯克希尔，我总是将各项业务的经营之棒交给美国商业大联盟的超级击球手们。
 
 # Acquisitions 并购活动
 
