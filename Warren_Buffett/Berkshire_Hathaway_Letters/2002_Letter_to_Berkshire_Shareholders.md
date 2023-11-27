@@ -135,7 +135,7 @@ My managerial model is Eddie Bennett, who was a batboy. In 1919, at age 19, Eddi
 
 What does this have to do with management? It's simple -- to be a winner, work with winners. In 1927, for example, Eddie received $700 for the 1/8th World Series share voted him by the legendary Yankee team of Ruth and Gehrig. This sum, which Eddie earned by working only four days (because New York swept the Series) was roughly equal to the full-year pay then earned by batboys who worked with ordinary associates.
 
-或许有人会问，这跟管理模式有什么相干？很简单——想要成为赢家，就应与赢家共事。举例来说，1927年，埃迪获得了700美元，是世界大赛奖金的1/8份额，由洋基队的传奇队员鲁斯（Ruth）和格里格（Gehrig）投票给他。这笔钱大约相当于其它球童一整年的收入，结果Eddie总共只工作4天就拿到手（因为当年度洋基队四连胜横扫对手）。
+或许有人会问，这跟管理模式有什么相干？很简单——想要成为赢家，就应与赢家共事。举例来说，1927年，埃迪获得了700美元，是世界大赛奖金的1/8份额，由洋基队的传奇队员鲁斯（Ruth）和格里格（Gehrig）投票给他。这笔钱大约相当于其它球童一整年的收入，结果埃迪总共只工作4天就拿到手（因为当年度洋基队四连胜横扫对手）。
 
 Eddie understood that how he lugged bats was unimportant; what counted instead was hooking up with the cream of those on the playing field. I've learned from Eddie. At Berkshire, I regularly hand bats to many of the heaviest hitters in American business.
 
