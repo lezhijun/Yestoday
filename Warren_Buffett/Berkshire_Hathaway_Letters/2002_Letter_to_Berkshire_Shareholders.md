@@ -329,7 +329,7 @@ When the WTC disaster occurred, it exposed weaknesses in Gen Re's operations tha
 
 It takes time for insurance policies to run off, however, and 2002 was well along before we managed to reduce our aggregation of nuclear, chemical and biological risk (NCB) to a tolerable level. That problem is now behind us.
 
-虽然保险契约有时间递延性，不过2002年整体的结果还算令人满意，虽然我们仍未将核子生化等事故（NCB）累积的风险降到可以忍受的限度之内，好在911事件已成往事。
+不过，保险契约有时间递延性，在我们将核子、生化等事故（NCB）累积的风险降到可以忍受的限度内之前，2002年还算令人满意。好在911事件已成往事。
 
 On another front, Gen Re's underwriting attitude has been dramatically altered: The entire organization now understands that we wish to write only properly-priced business, whatever the effect on volume. Joe and Tad judge themselves *only by* Gen Re's underwriting profitability. Size simply doesn't count.
 
