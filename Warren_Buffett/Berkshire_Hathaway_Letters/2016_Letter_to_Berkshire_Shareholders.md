@@ -315,7 +315,7 @@ We recently wrote a huge policy that increased float to more than $100 billion. 
 
 We may in time experience a decline in float. If so, the decline will be _very_ gradual -- at the outside no more than 3% in any year. The nature of our insurance contracts is such that we can _never_ be subject to immediate or near-term demands for sums that are of significance to our cash resources. This structure is by design and is a key component in the unequaled financial strength of our insurance companies. It will _never_ be compromised.
 
-随着时间的推移，我们可能会经历浮存金规模的下滑。如果是这样的话，那么下滑将是缓慢的，任何一年的下滑都不会超过3%。我们保险合同的性质要求，我们永远不会受到对我们的现金资源具有重要意义的即时或短期需求的影响。这种结构是经过精心设计的，是我们保险业务无与伦比的财务实力的关键组成部分。这个现金要求将永远不会妥协。
+随着时间的推移，我们可能会经历浮存金规模的下滑。如果是这样的话，那么下滑将是缓慢的，任何一年的下滑都不会超过3%。我们保险合同的性质要求，我们永远不会受到对我们的现金资源具有重要意义的即时或短期需求的影响。这种结构是经过精心设计的，是我们保险业务无与伦比的财务实力的关键组成部分。它永远不会受到损害。
 
 If our premiums exceed the total of our expenses and eventual losses, our insurance operation registers an underwriting profit that adds to the investment income the float produces. When such a profit is earned, we enjoy the use of free money -- and, better yet, get _paid_ for holding it.
 
